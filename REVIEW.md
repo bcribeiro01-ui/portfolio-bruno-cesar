@@ -2,7 +2,7 @@
 
 ## Estado
 
-Desenvolvido localmente. Publicação pendente da aprovação explícita do titular. Conta de destino identificada: bcribeiro01-ui.
+Publicação aprovada explicitamente pelo titular. Repositório público criado em bcribeiro01-ui/portfolio-bruno-cesar. GitHub Pages configurado para main e diretório raiz. URL retornada: https://bcribeiro01-ui.github.io/portfolio-bruno-cesar/.
 
 ## Design e funcionalidades
 
@@ -32,12 +32,12 @@ Os cartões são áreas de atuação, explicitamente identificadas. O exemplo vi
 
 ## Privacidade e segurança
 
-Revisão de todos os arquivos destinados ao Git, incluindo metadados e SVG. Links externos limitados a https://github.com/bcribeiro01-ui. Sem segredos, dados corporativos, contatos pessoais, analytics, CDN ou formulários. Nenhum outro repositório ou documento pessoal utilizado.
+Revisão de todos os arquivos destinados ao Git, incluindo metadados e SVG. Contato externo limitado a https://github.com/bcribeiro01-ui; metadados e documentação também referenciam o repositório e a URL pública deste portfólio. Sem segredos, dados corporativos, contatos pessoais, analytics, CDN ou formulários. Nenhum outro repositório ou documento pessoal utilizado.
 
-Git configurado somente neste repositório com nome Bruno César e endereço noreply derivado do ID e login da conta autenticada. Arquivos de QA ignorados. Nenhum remoto configurado. Histórico inicial auditado antes do commit; nenhum segredo inserido no histórico.
+Git configurado somente neste repositório com nome Bruno César e endereço noreply derivado do ID e login da conta autenticada. Arquivos de QA ignorados. Remoto origin configurado exclusivamente para o novo repositório autorizado. Histórico inicial auditado antes do commit; nenhum segredo inserido no histórico.
 
 ## Limites e próximos passos
 
-Acessibilidade básica verificada; não constitui certificação WCAG ou teste completo com leitor de tela. Sem benchmark Lighthouse. A publicação e a validação pela internet aguardam aprovação. Open Graph textual incluído; canonical, og:url e imagem social devem ser adicionados quando a URL real estiver confirmada.
+Acessibilidade básica verificada; não constitui certificação WCAG ou teste completo com leitor de tela. Sem benchmark Lighthouse. Publicação autorizada e configurada. Open Graph textual, canonical e og:url incluídos com a URL retornada pelo GitHub Pages. Imagem social personalizada recomendada para uma próxima versão.
 
 Próxima versão: projetos públicos autorizados com estudos de caso, imagem social personalizada e LinkedIn somente após fornecimento do link.

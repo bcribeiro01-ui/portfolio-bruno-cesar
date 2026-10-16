@@ -35,9 +35,9 @@ HTML semântico, link para pular ao conteúdo, foco visível, navegação por te
 
 Todos os recursos usam caminhos relativos, compatíveis com publicação em subdiretório. Publicar a branch main, diretório raiz. Desenvolvimento na branch feature/portfolio-pessoal.
 
-A publicação depende de aprovação explícita do titular. Antes dela, revisar arquivos, metadados, links, dados pessoais e histórico Git.
+Publicação autorizada explicitamente pelo titular. Repositório público: https://github.com/bcribeiro01-ui/portfolio-bruno-cesar. Site: https://bcribeiro01-ui.github.io/portfolio-bruno-cesar/. GitHub Pages configurado na main, diretório raiz. Antes de atualizações, revisar arquivos, metadados, links, dados pessoais e histórico Git.
 
-Depois de confirmar a URL pública, adicionar og:url, canonical e uma imagem social com URL absoluta. Esses campos foram omitidos enquanto o destino não existe, para evitar links inventados.
+Metadados og:url e canonical usam a URL retornada pelo GitHub Pages. Uma imagem social personalizada pode ser adicionada em uma próxima versão.
 
 ## Manutenção
 
